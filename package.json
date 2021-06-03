@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "snowpack dev --polyfill-node",
+    "build": "snowpack build"
+  },
+  "dependencies": {
+    "cejs": "^4.2.2",
+    "snowpack": "^3.5.4",
+    "wikiapi": "^1.15.1"
+  }
+}
