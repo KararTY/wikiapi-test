@@ -6,6 +6,6 @@
   "dependencies": {
     "cejs": "^4.2.2",
     "snowpack": "^3.5.4",
-    "wikiapi": "^1.15.1"
+    "wikiapi": "git+https://github.com/kanasimi/wikiapi.git#1060717d3543fa50b57b8809ee0613a3a1c42079"
   }
 }

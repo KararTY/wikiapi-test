@@ -1,4 +1,3 @@
-import cejs from 'cejs'
-import wikiapi from 'wikiapi'
+import Wikiapi from 'wikiapi'
 
-alert('I work!')
+window.wiki = new Wikiapi('en')
